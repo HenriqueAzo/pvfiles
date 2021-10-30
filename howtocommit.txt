@@ -1,0 +1,13 @@
+comandos para dar commit (quando ja na pasta desejada)
+```
+git init
+git add .
+git status
+```
+Este ultimo serve para checar o que sera alocado no repositorio
+```
+git commit -m "nome_do_commit"
+git remote add origin "url do repo"
+git push -u origin master
+```
+Depois, basta colocar usuario e token e pronto
